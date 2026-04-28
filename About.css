@@ -1,0 +1,16 @@
+body{
+    background-image: url('bag\ image.jpg');
+    background-size: cover;
+}
+p{
+    color: rgb(255, 196, 170);
+    text-align: center;
+    /* border: 2px solid blanchedalmond;
+    border-radius: 8px;
+    box-sizing: border-box; */
+    background-color: rgb(97, 28, 28);
+}
+h1{
+    color: rgb(229, 229, 229);
+    text-align: center;
+}
